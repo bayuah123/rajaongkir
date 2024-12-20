@@ -14,8 +14,10 @@
             "role": "Maintainer"
         }
     ],
+
     "require": {
         "php": "^7.0 || ^8.0",
+         "guzzlehttp/guzzle": "^6.0"
     },
     "require-dev": {
         "codedungeon/phpunit-result-printer": "^0.26.2",
